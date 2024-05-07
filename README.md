@@ -1,24 +1,14 @@
-# MÖRK BORG for Foundry VTT
+# Shadows of the Rising Sun, a MÖRK BORG variant, for Foundry VTT
 
-An unoffical, community-supported system for playing [MÖRK BORG](https://morkborg.com/) on [Foundry VTT](http://foundryvtt.com/).
+An unoffical system for playing Shadows of the Rising Sun, a [MÖRK BORG](https://morkborg.com/) variant, on [Foundry VTT](http://foundryvtt.com/).
 
-morkborg-foundry-vtt is an independent production by community contributors, and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the [MÖRK BORG Third Party License](https://morkborg.com/license/).
-
-![Latest Release Download Count](https://img.shields.io/github/downloads/fvtt-fria-ligan/morkborg-foundry-vtt/latest/system.zip)
-
-![screenshot](https://user-images.githubusercontent.com/189172/133104673-60734e50-ad00-4b54-9dbd-7edb5dafb6a9.png)
+sotrs-foundry-vtt is an independent production by community contributors, and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the [MÖRK BORG Third Party License](https://morkborg.com/license/).
 
 ## Getting Started
-
-- Install the system from within Foundry (_Configuration and Setup_, _Game Systems_ tab, _Install System_ button). Find package _MÖRK BORG_ and install.
-- Read [how to use this system](https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/blob/main/how-to-use-this-system.md).
-- Kill and be killed.
 
 If you want some third-party content, be sure to check out the [MÖRK BORG Third-Party Content](https://foundryvtt.com/packages/morkborg-3p) module, also installable from within Foundry. It includes additional classes, optional feats, roll tables, etc.
 
 ## Questions? Suggestions? Bugs?
-
-[File an issue](https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/issues), or hop on the [Foundry Discord](https://discord.gg/foundryvtt), _#free-league_ channel.
 
 ## Buy the Book
 
